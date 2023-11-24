@@ -1,5 +1,5 @@
 <!---
-aashishmulmi/aashishmulmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aashish9898-creator/aashishmulmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -9,8 +9,5 @@ You can click the Preview link to take a look at your changes.
 📫 Reach me through aashishmulmi@gmail.com
 
 
-<!---
-aashishmulmi/aashishmulmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
